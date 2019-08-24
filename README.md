@@ -17,7 +17,7 @@ If you want to use [Toolbar for Markdown Writer](https://github.com/zhuochun/too
 
 ## Applying MDX grammar to `.md` files?
 
-By default the MDX language is applied only to `.mdx` files. If MDX files in your project end with `.md`, you create a custom file type in your `config.cson`:
+By default the MDX language is applied only to `.mdx` files. If MDX files in your project end with `.md`, you can create a custom file type in your `config.cson`:
 
 ```cson
 core:
