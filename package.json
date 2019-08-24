@@ -1,0 +1,23 @@
+{
+  "name": "language-mdxjs",
+  "version": "0.1.0",
+  "description": "Language support for Markdown React JS (MDX)",
+  "keywords": [
+    "language",
+    "markdown",
+    "react",
+    "mdx",
+    "grammar"
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-mdxjs:toggle"
+  },
+  "repository": "https://github.com/BCDH/language-mdxjs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-react": ">=0.18.0"
+  }
+}

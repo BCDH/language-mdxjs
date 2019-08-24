@@ -1,0 +1,32 @@
+scopeName: 'source.mdxjs'
+name: 'Markdown React (mdx)'
+fileTypes: [
+  'mdx'
+]
+patterns: [
+  {
+    begin: '^(?=(import|export)\\b)'
+    end: '$'
+    contentName: 'source.js.jsx'
+    patterns: [
+      { include: 'source.js.jsx' }
+    ]
+  }
+  {
+    begin: '(?=<([a-z]|[A-Z]))'
+    end: '(?<=>)'
+    contentName: 'source.js.jsx'
+    patterns: [
+      { include: 'source.js.jsx' }
+    ]
+  }
+  {
+    begin: '(?=</([a-z]|[A-Z]))'
+    end: '(?<=>)'
+    contentName: 'source.js.jsx'
+    patterns: [
+      { include: 'source.js.jsx' }
+    ]
+  }
+  { include: 'source.gfm'}
+]
