@@ -6,8 +6,8 @@ Adds language support for [MDX](https://github.com/mdx-js/mdx).
 
 ## Installation
 
-`apm install language-mdxjs`
-`apm install react` (if you don't already have it)
+- `apm install language-mdxjs`
+- `apm install react` (if you don't already have it)
 
 ## Using Toolbar for Markdown Writer with `.mdx` files?
 
