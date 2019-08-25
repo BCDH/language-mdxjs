@@ -6,3 +6,5 @@
 * Added explicit mention of the dependency to `react` to the README
 ## 0.1.3
 * fix documentation
+## 0.1.4
+* fix documentation
