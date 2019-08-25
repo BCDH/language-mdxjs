@@ -11,9 +11,9 @@ Adds language support for [MDX](https://github.com/mdx-js/mdx).
 
 ## Using Toolbar for Markdown Writer with `.mdx` files?
 
-If you want to use [Toolbar for Markdown Writer](https://github.com/zhuochun/tool-bar-md-writer), make sure to add `scope.mdx` to the plugin's settings.
+If you want to use [Toolbar for Markdown Writer](https://github.com/zhuochun/tool-bar-md-writer), make sure to add `source.mdxjs` to the plugin's settings.
 
-![Скриншот 2019-08-23 15.41.33](https://i.imgur.com/sk9qoz2.png)
+![Скриншот 2019-08-25 05.57.50](https://i.imgur.com/vopHxXt.png)
 
 ## Applying MDX grammar to `.md` files?
 
